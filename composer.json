@@ -1,7 +1,7 @@
 {
     "name": "devtreat/image-treat",
     "description": "Treat your images, resize and compress.",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
     ,"autoload": {
         "psr-4": {
